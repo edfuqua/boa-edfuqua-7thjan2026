@@ -1,2 +1,2 @@
 vm-size = "t2.micro"
-vm-name = "edf-vm1-day3"
+vm-name = "edf-vm1"
