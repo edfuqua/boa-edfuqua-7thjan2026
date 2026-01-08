@@ -14,3 +14,8 @@ variable "vm-name"{
     type = string
     default = "edf-vm1"
 }
+
+variable "novm" {
+  type = number
+  description = "this is for number of vm to be created"
+}
